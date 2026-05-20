@@ -47,6 +47,10 @@ The dashboard was designed to support data-driven decision-making through intera
 * Business Analytics
 
 
+**##Dashboard Preview**
+(screen shot) Dashboard.png.docx file is attached
+
+
 
 
 ## 🔗 Tableau Public Dashboard
